@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\analytics.props" />
+</Project>
